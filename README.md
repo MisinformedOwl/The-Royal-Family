@@ -54,7 +54,7 @@ If you wish to create a new model from scratch, run either train.py or trainAug.
 
     python trainAug.py
 
-**Be aware that doiong this will overwrite any model data in the model file.**
+**Be aware that doing this will overwrite any model data in the model file.**
 
 Make sure before you do this that you have the images you wish to test on inside the folder called "training" with their annotations in a folder called "anno"
 

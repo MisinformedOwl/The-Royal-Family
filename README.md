@@ -91,6 +91,6 @@ If you are having issues, please check the environment has been set up and all d
 Data
 -------
 
-For the data set please go to this link: <https://drive.google.com/open?id=18VxKi1Y1H2gFBkG7Qu84o0F9d56iWJql>
+For the data set please go to this link: <https://drive.google.com/open?id=1itnLNwl__cWmmef0XQ6O5AMYop9rLKvp>
 
-For the pretrained model go to this link: <https://drive.google.com/open?id=1AqQSAsd7Vbdh1YZsKEEgVH-RKcB4zpgU>
+For the pretrained model go to this link: <https://drive.google.com/open?id=1suaBiJLdpGcV3iHt2440WOjqf412VBwI>

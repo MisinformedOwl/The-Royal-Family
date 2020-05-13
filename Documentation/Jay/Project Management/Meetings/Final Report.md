@@ -12,3 +12,5 @@ I will be handing this in at the end of the day.
 
 This project is handed in and i have checked it is working. 
 I have asked my team to check aswell just incase it's only my machine, however no responce. So i assume it works.
+
+Pablo recently jumped onto discord where we have been storing our information. And asked if he can do anything to help at the last minute. Unfortunatly we had finished development and were all preparing to hand in documentation.
